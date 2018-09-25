@@ -57,5 +57,29 @@
 	width:100%;
 	height: auto;
 }
+.content1{
+	padding: 25px;
+}
+.content1 p{
+	font-size: 20px;
+	font-style: italic;
+	
+}
 
-
+.lich{
+	padding-left: 10%;
+}
+.lich_anh img{
+	width: 80%;
+	height:300px;
+}
+.lich_chitiet ul li{
+	list-style-type: none;
+}
+.lich_chitiet h2{
+	color:blue;
+}
+}
+.ds li {
+	font-size: 20px;
+}
